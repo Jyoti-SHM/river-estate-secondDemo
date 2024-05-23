@@ -9088,3 +9088,7 @@ textarea.input {
     height: 200px;
 }
 
+/* custom style */
+.hotale-navigation .hotale-main-menu {
+    margin-left: 133px !important;
+}
